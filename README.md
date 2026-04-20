@@ -56,5 +56,5 @@ The model demonstrates strong performance in detecting pneumonia from chest X-ra
 Feel free to fork and improve the project. Open to suggestions and improvements.
 
 📎 Notes
-Dataset and .h5 model file not included due to size constraints
-Ensure GPU + CUDA setup for best performance
+- Dataset and .h5 model file not included due to size constraints
+- Ensure GPU + CUDA setup for best performance
