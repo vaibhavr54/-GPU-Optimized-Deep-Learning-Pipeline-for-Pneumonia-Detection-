@@ -34,8 +34,8 @@ ROC-AUC Score
 
 ### How to Run
 Clone the repository
-git clone https://github.com/vaibhavr54/-GPU-Optimized-Deep-Learning-Pipeline-for-Pneumonia-Detection-.git
-cd -GPU-Optimized-Deep-Learning-Pipeline-for-Pneumonia-Detection-
+git clone https://github.com/vaibhavr54/GPU-Optimized-Deep-Learning-Pipeline-for-Pneumonia-Detection.git
+cd GPU-Optimized-Deep-Learning-Pipeline-for-Pneumonia-Detection
 
 ### Install dependencies
 pip install -r requirements.txt
