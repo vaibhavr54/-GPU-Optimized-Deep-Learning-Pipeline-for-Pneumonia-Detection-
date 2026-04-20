@@ -20,17 +20,23 @@ This project implements a deep learning-based medical imaging system to detect p
 - EarlyStopping
 - ReduceLROnPlateau
 - ModelCheckpoint
+- <img width="994" height="257" alt="image" src="https://github.com/user-attachments/assets/e65a00d8-5cee-4f54-bb44-7f81544e682c" />
+
 
 ### Performance & Optimization
 - Trained using CUDA-enabled NVIDIA GPU (RTX 2050) for faster computation
 - Achieved ~90% val accuracy and ~94 recall on pneumonia class (update with actual values)
 - Reduced training time by ~30–40% compared to CPU execution
 - Optimized batch processing and data pipeline for better GPU utilization
+- <img width="1080" height="147" alt="image" src="https://github.com/user-attachments/assets/0786e520-3f9b-431a-8362-85cf41f69cd3" />
+
   
 ### Evaluation Metrics
 Confusion Matrix
 Classification Report (Precision, Recall, F1-score)
 ROC-AUC Score
+<img width="645" height="665" alt="image" src="https://github.com/user-attachments/assets/a0f9ca0a-f7ce-45b2-8da8-5886a0911e3d" />
+
 
 ### How to Run
 Clone the repository
